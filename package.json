@@ -1,7 +1,7 @@
 {
   "name": "@rbxts/profile-store",
   "version": "1.0.3",
-  "main": "src/init.lua",
+  "main": "src/ProfileStore.luau",
   "types": "src/index.d.ts",
   "scripts": {
     "build": "rbxtsc",
