@@ -26,8 +26,7 @@
   "homepage": "https://github.com/Quamatic/rbxts-profile-store",
   "description": "roblox-ts bindings for loleris's ProfileStore",
   "files": [
-    "src",
-    "default.project.json"
+    "src"
   ],
   "publishConfig": {
     "access": "public"
